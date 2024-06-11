@@ -39,4 +39,4 @@ Para comenzar a utilizar Nutri Boost, sigue estos pasos:
 
 ## 📝 Licencia
 
-Este proyecto fué creado por Alejandro López Lugrís.
+Este proyecto fué creado por alexlugris.

@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    username: root
+    password: Aleeex8?
+    url: jdbc:mysql://localhost:3306/nutri_boost
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+        ddl-auto:update
+server:
+  port: 8088
+
